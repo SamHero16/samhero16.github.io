@@ -6,10 +6,10 @@ about:
 
 ---
 
-Hello! I am from Seattle, Washington. I got my undergraduate degree from Colorado State University, and am currently in graduate school at the University of Washington.
+Hello! I am from Seattle, Washington. I got my undergraduate degree from Colorado State University, and recently finished graduate school at the University of Washington.
 
 I am very interested in all things data science, statistics, and computer science. I have a special interest in using my technical skills for research, public health, and sports.
 
 My experience is mostly research based. During my undergrad at CSU, I engaged in two research projects. First, with the Department of Statistics, I tested complex methods to limit confounding in spatial data, specifically Thin Plate Regression Splines. Next, with the College of Engineering, I worked in the fascinating field of image de-noising, where I researched and developed deep learning solutions to enhance image quality for a biomedical imaging lab. Then, I took more of an analyst role, again with the CSU Statistics department. I worked with spatial air pollution data, where I conducted analyses, wrangled data, created visualizations, and presented findings. I also was a Calculus 1 Tutor and TA for two years at the CSU Calculus Center. 
 
-Currently, I am a Graduate Researcher on the forecasting team at the Institute for Health Metrics and Evaluation (IHME), where I work on large-scale Python-based forecasting pipelines for global health indicators, with a particular focus on vaccine coverage. My work involves developing and maintaining statistical models, processing and quality-checking complex time-series data using tools such as xarray and pandas, collaborating with software engineers, and helping contribute to peer-reviewed publications.
+Lastly, I was a Graduate Researcher on the forecasting team at the Institute for Health Metrics and Evaluation (IHME), where I worked on large-scale Python-based forecasting pipelines for global health indicators, with a particular focus on vaccine coverage. My work involved developing and maintaining statistical models, processing and quality-checking complex time-series data using tools such as xarray and pandas, collaborating with software engineers, and helping contribute to peer-reviewed publications.

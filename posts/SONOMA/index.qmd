@@ -1,0 +1,21 @@
+---
+title: "Non-Operative Management of Appendicitis: Trends in Selection and Outcome"
+description: "A project in collaboration with UW Medicine and Dr. Griffen Allen."
+author:
+  - name: Sam Herold
+    url: https://samhero16.github.io/
+    orcid: 0000-0002-5300-3075
+
+priority: 1
+
+image: team-photo.png
+draft: false 
+date: 2026-03-16
+---
+
+---
+
+More info on this to come once research is published. 
+---
+
+<embed src="DCSI478-FinalProject.pdf" type="application/pdf" width="1000" height="800">

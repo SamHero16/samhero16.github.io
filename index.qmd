@@ -14,7 +14,7 @@ about:
       href: sherold@uw.edu
 ---
 
-Sam Herold is a graduate student at the University of Washington, pursuing a M.S. in Biostatistics. He obtained his undergraduate degree in Data Science from Colorado State University in 2024, and will be graduating from UW in March 2026. 
+Hello, my name is Sam. I am a health data researcher based in Seattle, WA. I recently got my Masers in Biostatistics from the University of Washington, and got my undergraduate degree in Data Science from Colorado State University in 2024.
 
 # Education
 
@@ -26,7 +26,7 @@ Bachelor of Science in Data Science
 
 # Experience
 
-**Graduate Researcher** \| The Institute for Health Metrics and Evaluations \| Fall 2024 - Present
+**Graduate Researcher** \| The Institute for Health Metrics and Evaluations \| Fall 2024 - Sprint 2026
 
 **Undergraduate Researcher** \| CSU - Walter Scott Jr. College of Engineering \| Fall 2023 - Summer 2024
 
