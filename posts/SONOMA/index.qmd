@@ -15,7 +15,6 @@ date: 2026-03-16
 
 ---
 
-More info on this to come once research is published. 
 ---
 
-<embed src="DCSI478-FinalProject.pdf" type="application/pdf" width="1000" height="800">
+More info on this to come once research is published. 
